@@ -1,0 +1,84 @@
+{
+  "carrinho": [
+    {
+      "produto": {
+        "id": 1,
+        "titulo": "Asus ROG Strix GL553",
+        "descricao": "Processador Intel® Core™ i7 7700HQ, memória SDRAM de 32 GB, SSD SATA3 de 512 GB, placa de vídeo dedicada NVIDIA GeForce GTX 1050 com 4GB GDDR5 VRAM, monitor LED 15.6 polegadas anti-reflexo, sistema operacional Windows 10 Pro.",
+        "valor": 5679.99,
+        "vendidos": 82,
+        "estoque": 42,
+        "indiceImagemSelecionada": 1,
+        "categoria_id": 1,
+        "imagens": [
+          "https://www.asus.com/media/global/gallery/Plf7SW7kMwn2nRQB_setting_000_1_90_end_500.png",
+          "https://www.asus.com/media/global/gallery/yQg3MQhLZbhOCE32_setting_000_1_90_end_500.png",
+          "https://www.asus.com/media/global/gallery/xnVHBkUUSa3tn2s9_setting_000_1_90_end_500.png",
+          "https://www.asus.com/media/global/gallery/YJztx3VXvzbwDvHg_setting_000_1_90_end_500.png",
+          "https://www.asus.com/media/global/gallery/RpNj4hh1t4q11aVs_setting_000_1_90_end_500.png",
+          "https://www.asus.com/media/global/gallery/ubz6ivJf2yxmz1Va_setting_000_1_90_end_500.png"
+        ]
+      },
+      "quantidade": 2,
+      "id": 1
+    },
+    {
+      "produto": {
+        "id": 2,
+        "titulo": "ROG ZEPHYRUS GX501",
+        "descricao": "Processador Intel® Core™ i7 7700HQ, memória SDRAM de 32 GB, SSD SATA3 de 512 GB, placa de vídeo dedicada NVIDIA GeForce GTX 1080 com 4GB GDDR5 VRAM, monitor LED 15.6 polegadas anti-reflexo, sistema operacional Windows 10 Pro.",
+        "valor": 5679.99,
+        "vendidos": 71,
+        "estoque": 119,
+        "indiceImagemSelecionada": 1,
+        "categoria_id": 2,
+        "imagens": [
+          "https://www.asus.com/media/global/gallery/FAkyGW2vQSwB71n5_setting_000_1_90_end_500.png",
+          "https://www.asus.com/media/global/gallery/nWzKaB6MflpLZFia_setting_000_1_90_end_500.png",
+          "https://www.asus.com/media/global/gallery/GRgSbD6IXNdJadFD_setting_000_1_90_end_500.png",
+          "https://www.asus.com/media/global/gallery/csrdUf3WTJ9nPM2c_setting_000_1_90_end_500.png",
+          "https://www.asus.com/media/global/gallery/ETWaurNp7LuCNC6U_setting_000_1_90_end_500.png"
+        ]
+      },
+      "quantidade": 2,
+      "id": 2
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "titulo": "Asus ROG Strix GL553",
+      "descricao": "Processador Intel® Core™ i7 7700HQ, memória SDRAM de 32 GB, SSD SATA3 de 512 GB, placa de vídeo dedicada NVIDIA GeForce GTX 1050 com 4GB GDDR5 VRAM, monitor LED 15.6 polegadas anti-reflexo, sistema operacional Windows 10 Pro.",
+      "valor": 5679.99,
+      "vendidos": 83,
+      "estoque": 41,
+      "indiceImagemSelecionada": 1,
+      "categoria_id": 1,
+      "imagens": [
+        "https://www.asus.com/media/global/gallery/Plf7SW7kMwn2nRQB_setting_000_1_90_end_500.png",
+        "https://www.asus.com/media/global/gallery/yQg3MQhLZbhOCE32_setting_000_1_90_end_500.png",
+        "https://www.asus.com/media/global/gallery/xnVHBkUUSa3tn2s9_setting_000_1_90_end_500.png",
+        "https://www.asus.com/media/global/gallery/YJztx3VXvzbwDvHg_setting_000_1_90_end_500.png",
+        "https://www.asus.com/media/global/gallery/RpNj4hh1t4q11aVs_setting_000_1_90_end_500.png",
+        "https://www.asus.com/media/global/gallery/ubz6ivJf2yxmz1Va_setting_000_1_90_end_500.png"
+      ]
+    },
+    {
+      "id": 2,
+      "titulo": "ROG ZEPHYRUS GX501",
+      "descricao": "Processador Intel® Core™ i7 7700HQ, memória SDRAM de 32 GB, SSD SATA3 de 512 GB, placa de vídeo dedicada NVIDIA GeForce GTX 1080 com 4GB GDDR5 VRAM, monitor LED 15.6 polegadas anti-reflexo, sistema operacional Windows 10 Pro.",
+      "valor": 5679.99,
+      "vendidos": 72,
+      "estoque": 118,
+      "indiceImagemSelecionada": 1,
+      "categoria_id": 2,
+      "imagens": [
+        "https://www.asus.com/media/global/gallery/FAkyGW2vQSwB71n5_setting_000_1_90_end_500.png",
+        "https://www.asus.com/media/global/gallery/nWzKaB6MflpLZFia_setting_000_1_90_end_500.png",
+        "https://www.asus.com/media/global/gallery/GRgSbD6IXNdJadFD_setting_000_1_90_end_500.png",
+        "https://www.asus.com/media/global/gallery/csrdUf3WTJ9nPM2c_setting_000_1_90_end_500.png",
+        "https://www.asus.com/media/global/gallery/ETWaurNp7LuCNC6U_setting_000_1_90_end_500.png"
+      ]
+    }
+  ]
+}

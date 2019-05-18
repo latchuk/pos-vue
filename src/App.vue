@@ -1,28 +1,34 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <Navbar/>
+
+    <div class="container mt-4">
+      <router-view/>
+    </div>
+
+    <Footer/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Navbar from "./components/Navbar";
+import api from "./api";
 
 export default {
-  name: 'app',
   components: {
-    HelloWorld
+    Navbar
+  },
+  async created() {
+    const { data } = await api.get("/carrinho");
+    this.$store.commit("CARRINHO_RECUPERADO", data);
   }
-}
+};
 </script>
 
-<style>
+<style lang="scss">
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+  font-family: Roboto;
+  background: #fafafa;
+  color: rgba(0, 0, 0, 0.87);
 }
 </style>
