@@ -1,96 +1,55 @@
 {
-  "carrinho": [
-    {
-      "produto": {
-        "id": 3,
-        "titulo": "MOUSE GAMER ASUS ROG GLADIUS II",
-        "descricao": "Mouse óptico, com fio, leds RGB e com 12000 DPI.",
-        "valor": 360.17,
-        "vendidos": 4,
-        "estoque": 16,
-        "indiceImagemSelecionada": 2,
-        "categoria_id": 2,
-        "imagens": [
-          "https://9d5b198e653b6aea.cdn.gocache.net/catalog/product/cache/a931fab3436c8de63f3cc480a85799ce/9/0/90mp00u1-b0ua001.jpg",
-          "https://9d5b198e653b6aea.cdn.gocache.net/catalog/product/cache/a931fab3436c8de63f3cc480a85799ce/9/0/90mp00u1-b0ua002.jpg",
-          "https://9d5b198e653b6aea.cdn.gocache.net/catalog/product/cache/a931fab3436c8de63f3cc480a85799ce/9/0/90mp00u1-b0ua00.jpg"
-        ]
-      },
-      "quantidade": 2,
-      "id": 1
-    },
-    {
-      "produto": {
-        "id": 2,
-        "titulo": "ROG ZEPHYRUS GX501",
-        "descricao": "Processador Intel® Core™ i7 7700HQ, memória SDRAM de 32 GB, SSD SATA3 de 512 GB, placa de vídeo dedicada NVIDIA GeForce GTX 1080 com 4GB GDDR5 VRAM, monitor LED 15.6 polegadas anti-reflexo, sistema operacional Windows 10 Pro.",
-        "valor": 6312.85,
-        "vendidos": 9,
-        "estoque": 15,
-        "indiceImagemSelecionada": 1,
-        "categoria_id": 1,
-        "imagens": [
-          "https://www.asus.com/media/global/gallery/FAkyGW2vQSwB71n5_setting_000_1_90_end_500.png",
-          "https://www.asus.com/media/global/gallery/nWzKaB6MflpLZFia_setting_000_1_90_end_500.png",
-          "https://www.asus.com/media/global/gallery/GRgSbD6IXNdJadFD_setting_000_1_90_end_500.png",
-          "https://www.asus.com/media/global/gallery/csrdUf3WTJ9nPM2c_setting_000_1_90_end_500.png",
-          "https://www.asus.com/media/global/gallery/ETWaurNp7LuCNC6U_setting_000_1_90_end_500.png"
-        ]
-      },
-      "quantidade": 1,
-      "id": 2
-    }
-  ],
-  "produtos": [
-    {
-      "id": 1,
-      "titulo": "Asus ROG Strix GL553",
-      "descricao": "Processador Intel® Core™ i7 7700HQ, memória SDRAM de 32 GB, SSD SATA3 de 512 GB, placa de vídeo dedicada NVIDIA GeForce GTX 1050 com 4GB GDDR5 VRAM, monitor LED 15.6 polegadas anti-reflexo, sistema operacional Windows 10 Pro.",
-      "valor": 5678.99,
-      "vendidos": 16,
-      "estoque": 1,
-      "indiceImagemSelecionada": 1,
-      "categoria_id": 1,
-      "imagens": [
-        "https://www.asus.com/media/global/gallery/Plf7SW7kMwn2nRQB_setting_000_1_90_end_500.png",
-        "https://www.asus.com/media/global/gallery/yQg3MQhLZbhOCE32_setting_000_1_90_end_500.png",
-        "https://www.asus.com/media/global/gallery/xnVHBkUUSa3tn2s9_setting_000_1_90_end_500.png",
-        "https://www.asus.com/media/global/gallery/YJztx3VXvzbwDvHg_setting_000_1_90_end_500.png",
-        "https://www.asus.com/media/global/gallery/RpNj4hh1t4q11aVs_setting_000_1_90_end_500.png",
-        "https://www.asus.com/media/global/gallery/ubz6ivJf2yxmz1Va_setting_000_1_90_end_500.png"
-      ]
-    },
-    {
-      "id": 2,
-      "titulo": "ROG ZEPHYRUS GX501",
-      "descricao": "Processador Intel® Core™ i7 7700HQ, memória SDRAM de 32 GB, SSD SATA3 de 512 GB, placa de vídeo dedicada NVIDIA GeForce GTX 1080 com 4GB GDDR5 VRAM, monitor LED 15.6 polegadas anti-reflexo, sistema operacional Windows 10 Pro.",
-      "valor": 6312.85,
-      "vendidos": 9,
-      "estoque": 15,
-      "indiceImagemSelecionada": 1,
-      "categoria_id": 1,
-      "imagens": [
-        "https://www.asus.com/media/global/gallery/FAkyGW2vQSwB71n5_setting_000_1_90_end_500.png",
-        "https://www.asus.com/media/global/gallery/nWzKaB6MflpLZFia_setting_000_1_90_end_500.png",
-        "https://www.asus.com/media/global/gallery/GRgSbD6IXNdJadFD_setting_000_1_90_end_500.png",
-        "https://www.asus.com/media/global/gallery/csrdUf3WTJ9nPM2c_setting_000_1_90_end_500.png",
-        "https://www.asus.com/media/global/gallery/ETWaurNp7LuCNC6U_setting_000_1_90_end_500.png"
-      ]
-    },
-    {
-      "id": 3,
-      "titulo": "MOUSE GAMER ASUS ROG GLADIUS II",
-      "descricao": "Mouse óptico, com fio, leds RGB e com 12000 DPI.",
-      "valor": 360.17,
-      "vendidos": 5,
-      "estoque": 15,
-      "indiceImagemSelecionada": 2,
-      "categoria_id": 2,
-      "imagens": [
-        "https://9d5b198e653b6aea.cdn.gocache.net/catalog/product/cache/a931fab3436c8de63f3cc480a85799ce/9/0/90mp00u1-b0ua001.jpg",
-        "https://9d5b198e653b6aea.cdn.gocache.net/catalog/product/cache/a931fab3436c8de63f3cc480a85799ce/9/0/90mp00u1-b0ua002.jpg",
-        "https://9d5b198e653b6aea.cdn.gocache.net/catalog/product/cache/a931fab3436c8de63f3cc480a85799ce/9/0/90mp00u1-b0ua00.jpg"
-      ]
-    }
-  ]
+    "carrinho": [],
+    "produtos": [
+        {
+            "id": 1,
+            "titulo": "Asus ROG Strix GL553",
+            "descricao": "Processador Intel® Core™ i7 7700HQ, memória SDRAM de 32 GB, SSD SATA3 de 512 GB, placa de vídeo dedicada NVIDIA GeForce GTX 1050 com 4GB GDDR5 VRAM, monitor LED 15.6 polegadas anti-reflexo, sistema operacional Windows 10 Pro.",
+            "valor": 5678.99,
+            "vendidos": 16,
+            "estoque": 1,
+            "indiceImagemSelecionada": 1,
+            "categoria_id": 1,
+            "imagens": [
+                "https://www.asus.com/media/global/gallery/Plf7SW7kMwn2nRQB_setting_000_1_90_end_500.png",
+                "https://www.asus.com/media/global/gallery/yQg3MQhLZbhOCE32_setting_000_1_90_end_500.png",
+                "https://www.asus.com/media/global/gallery/xnVHBkUUSa3tn2s9_setting_000_1_90_end_500.png",
+                "https://www.asus.com/media/global/gallery/YJztx3VXvzbwDvHg_setting_000_1_90_end_500.png",
+                "https://www.asus.com/media/global/gallery/RpNj4hh1t4q11aVs_setting_000_1_90_end_500.png",
+                "https://www.asus.com/media/global/gallery/ubz6ivJf2yxmz1Va_setting_000_1_90_end_500.png"
+            ]
+        },
+        {
+            "id": 2,
+            "titulo": "ROG ZEPHYRUS GX501",
+            "descricao": "Processador Intel® Core™ i7 7700HQ, memória SDRAM de 32 GB, SSD SATA3 de 512 GB, placa de vídeo dedicada NVIDIA GeForce GTX 1080 com 4GB GDDR5 VRAM, monitor LED 15.6 polegadas anti-reflexo, sistema operacional Windows 10 Pro.",
+            "valor": 6312.85,
+            "vendidos": 9,
+            "estoque": 15,
+            "indiceImagemSelecionada": 1,
+            "categoria_id": 1,
+            "imagens": [
+                "https://www.asus.com/media/global/gallery/FAkyGW2vQSwB71n5_setting_000_1_90_end_500.png",
+                "https://www.asus.com/media/global/gallery/nWzKaB6MflpLZFia_setting_000_1_90_end_500.png",
+                "https://www.asus.com/media/global/gallery/GRgSbD6IXNdJadFD_setting_000_1_90_end_500.png",
+                "https://www.asus.com/media/global/gallery/csrdUf3WTJ9nPM2c_setting_000_1_90_end_500.png",
+                "https://www.asus.com/media/global/gallery/ETWaurNp7LuCNC6U_setting_000_1_90_end_500.png"
+            ]
+        },
+        {
+            "id": 3,
+            "titulo": "MOUSE GAMER ASUS ROG GLADIUS II",
+            "descricao": "Mouse óptico, com fio, leds RGB e com 12000 DPI.",
+            "valor": 360.17,
+            "vendidos": 5,
+            "estoque": 15,
+            "indiceImagemSelecionada": 2,
+            "categoria_id": 2,
+            "imagens": [
+                "https://9d5b198e653b6aea.cdn.gocache.net/catalog/product/cache/a931fab3436c8de63f3cc480a85799ce/9/0/90mp00u1-b0ua001.jpg",
+                "https://9d5b198e653b6aea.cdn.gocache.net/catalog/product/cache/a931fab3436c8de63f3cc480a85799ce/9/0/90mp00u1-b0ua002.jpg",
+                "https://9d5b198e653b6aea.cdn.gocache.net/catalog/product/cache/a931fab3436c8de63f3cc480a85799ce/9/0/90mp00u1-b0ua00.jpg"
+            ]
+        }
+    ]
 }
