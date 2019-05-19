@@ -3,8 +3,8 @@
     <div class="produto" v-for="produto in produtos" :key="produto.id">
       <router-link :to="'/produto/' + produto.id">
         <img v-bind:src="produto.imagens[0]">
-        <P>{{ produto.titulo }}</P>
         <small>R$ {{ produto.valor }}</small>
+        <P>{{ produto.titulo }}</P>
       </router-link>
     </div>
   </main>
@@ -44,7 +44,7 @@ export default {
 };
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
 main {
   display: flex;
   flex-wrap: wrap;
@@ -56,6 +56,8 @@ main {
   border-radius: 4px;
   display: flex;
   flex-direction: column;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  margin: 0 8px 8px 0;
 
   &:hover {
     background-color: rgba(0, 0, 0, 0.12);

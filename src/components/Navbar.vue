@@ -20,9 +20,9 @@
           <li class="nav-item">
             <router-link class="nav-link link" to="/2">• Mouses •</router-link>
           </li>
-          <li class="nav-item">
+          <!-- <li class="nav-item">
             <router-link class="nav-link link" to="/pesquisa" target="_blank">• Pesquisa em PDF •</router-link>
-          </li>
+          </li> -->
         </ul>
 
         <button type="button" class="btn btn-md botao" v-on:click="carrinho">
